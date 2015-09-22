@@ -26,7 +26,7 @@ namespace assignment1
         {   //this method reads the csv file and splits items at each comma, saving values as WineItem values
             if (!loadFinished)  //ensures the list is only loaded once
             {   
-                StreamReader streamreader = new StreamReader("WineList.csv");
+                StreamReader streamreader = new StreamReader("..\\..\\..\\datafiles\\WineList.csv");
 
                 string[] splitter;
 
