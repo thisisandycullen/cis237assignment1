@@ -65,7 +65,7 @@ namespace assignment1
         }
 
         //methods
-        public string ShowList()
+        public override string ToString() //overrides ToString() method
         {   //this method assembles a wine item string and returns it for output
             string wineItemString = string.Empty;
 

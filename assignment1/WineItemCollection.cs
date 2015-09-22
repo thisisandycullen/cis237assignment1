@@ -31,7 +31,7 @@ namespace assignment1
             {
                 if (wineItem != null)
                 {
-                    outputString += wineItem.ShowList() + Environment.NewLine;
+                    outputString += wineItem.ToString() + Environment.NewLine;
                 }
             }
 
