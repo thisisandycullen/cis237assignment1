@@ -1,8 +1,8 @@
 # Assignment 1 - Review of C# Basic Concepts and Introduction to Git
 
-## Author
+## Author - Andy Cullen
 
-## Description
+## Description:
 
 Create a C# console program to work with a .CSV wine list. The program should continually run until the user decides to exit (entering a certain character on the keyboard). The program should allow the following functionality:
 
@@ -50,8 +50,8 @@ Suggestion/Hints:
 * Remember to handle the case when the user has entered no information. You can print a simple message (i.e., “No data entered” or something else). It just needs to be obvious to the user something has happened.
 * Remember to handle (gracefully) cases where the user enters something incorrectly.
 
-## Outside Resources Used
+## Outside Resources Used - My old projects from C# with Dawn. ..Not really "outside."
 
-## Known Problems, Issues, And/Or Errors in the Program
+## Known Problems, Issues, And/Or Errors in the Program - Should work fine, but I'm sure there's a way to break it.
 
 
